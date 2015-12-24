@@ -8,7 +8,7 @@ generate ssh public keys
 
 ## Usage
 
-```js
+```bash
 @maboiteaspam/ssh-public-keygen 1.0.0
 generate ssh public keys
 
